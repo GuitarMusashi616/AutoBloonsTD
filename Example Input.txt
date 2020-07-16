@@ -1,0 +1,5 @@
+For use in BTD6 on the map Spring Spring on Hard Difficulty or CHIMPS
+
+Copy/Paste the following into the InputBox after loading the game and pressing alt-o (make sure auto-start is on in BTD6):
+
+1:20 +q1 1245 576 +x1 1403 648 2:35 +u1 284 561 2:46 x1, 3:15 x1, 3:39 x1/ 4:13 x1/ 4:25 +x2 1451 488 4:31 x2, x2, 4:45 q1/ q1/ 4:50 +q2 557 169 q2/ q2/ 5:04 +q3 531 945 5:11 q3/ q3/ 5:22 x2/ 5:35 x2/ 6:40 +g1 322 502 +g2 298 629 6:49 +g3 361 561 +g4 401 504 +g5 376 627 7:05 +g6 370 441 7:30 g1. g1/ g2. g2/ g3. g3/ g4. g4/ g5. g5/ g6. g6/ 7:44 +k1 494 479 k1/ 8:01 +k2 472 613 8:05 k2/ 8:25 k1/ k2/ 8:30 k1. 8:45 k1. 9:00 k2, k2, 9:45 g1/ g1/ g2/ g2/ g3/ g3/ g4/ g4/ g5/ g5/ g6/ g6/ 10:15 g1/ 10:25 g2/ 10:30 g3/ 10:45 g4/ 11:00 g5/ 11:20 g6/ 12:00 k1. 12:20 +f1 434 408 f1, f1/ f1, f1/ f1, 12:40 f1, 13:15 +f2 548 565 f2, f2/ f2, f2/ f2, f2, 14:10 +f3 586 493 f3, f3, f3/ f3/ f3, f3, 18:30 g1/ 18:50 +j1 1334 388 j1/ j1/ ~j1 c j1/ j1/ j1. j1. 19:13 +f4 1425 225 f4, f4, 21:00 j1/ 21:10 f4, f4, f4/ f4/
