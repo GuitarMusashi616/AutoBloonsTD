@@ -1,7 +1,39 @@
 For use in BTD6 on the map Spring Spring on Hard Difficulty or CHIMPS
 
-Copy/Paste the following into the InputBox after loading the game and pressing alt-o (make sure auto-start is on in BTD6):
 
-1:20 +q1 1245 576 +x1 1403 648 2:35 +u1 284 561 2:46 x1, 3:15 x1, 3:39 x1/ 4:13 x1/ 4:25 +x2 1451 488 4:31 x2, x2, 4:45 q1/ q1/ 4:50 +q2 557 169 q2/ q2/ 5:04 +q3 531 945 5:11 q3/ q3/ 5:22 x2/ 5:35 x2/ 6:40 +g1 322 502 +g2 298 629 6:49 +g3 361 561 +g4 401 504 +g5 376 627 7:05 +g6 370 441 7:30 g1. g1/ g2. g2/ g3. g3/ g4. g4/ g5. g5/ g6. g6/ 7:44 +k1 494 479 k1/ 8:01 +k2 472 613 8:05 k2/ 8:25 k1/ k2/ 8:30 k1. 8:45 k1. 9:00 k2, k2, 9:45 g1/ g1/ g2/ g2/ g3/ g3/ g4/ g4/ g5/ g5/ g6/ g6/ 10:15 g1/ 10:25 g2/ 10:30 g3/ 10:45 g4/ 11:00 g5/ 11:20 g6/ 12:00 k1. 12:20 +f1 434 408 f1, f1/ f1, f1/ f1, 12:40 f1, 13:15 +f2 548 565 f2, f2/ f2, f2/ f2, f2, 14:10 +f3 586 493 f3, f3, f3/ f3/ f3, f3, 18:30 g1/ 18:50 +j1 1334 388 j1/ j1/ ~j1 c j1/ j1/ j1. j1. 19:13 +f4 1425 225 f4, f4, 21:00 j1/ 21:10 f4, f4, f4/ f4/
++u1 779 700 +d1 777 601 d1/ d1, d1, d1, +f1 690 601 f1, f1, +a1 645 709 f1, f1/ f1/ +k1 919 556 +z1 1592 406 d1, d1/ +z2 1612 540 +z3 1386 938 +d2 507 701 +a2 635 528 d2. d2. d2/ d2. d2. d2/ a1. a1. a1/ a2. a2. a2/ a1/ a1, a2/ a2, a1, z1, z2, z3, z1/ z2/ z3/ z1 s z2 s z3 s z1, z2, z3, z1/ z2/ z3/ z1, z2, z3/ z1, z3/ z2, a2, f1, k1, k1, k2. k2. k2. a1, a2, 
 
-+q1 1253 601 +x1 1407 675 +u1 295 591 x1, x1, x1/ x1/ +x2 1464 510 x2, x2, q1/ q1/ +q2 564 191 q2/ q2/ +q3 542 967 q3/ q3/ x2/ x2/ +g1 316 528 +g2 320 653 +g3 371 600 +g4 408 541 +g5 396 668 +g6 393 475 g1. g1/ g2. g2/ g3. g3/ g4. g4/ g5. g5/ g6. g6/ +k1 506 542 k1/ +k2 498 647 k2/ k1/ k2/ k1. k1. k2, k2, g1/ g1/ g2/ g2/ g3/ g3/ g4/ g4/ g5/ g5/ g6/ g6/ g1/ g2/ g3/ g4/ g5/ g6/ k1. +f1 465 457 f1, f1/ f1, f1/ f1, f1, +f2 346 711 f2, f2/ f2, f2/ f2, f2, +f3 535 459 f3, f3, f3/ f3/ f3, f3, g1/ +j1 1339 431 j1/ j1/ ~j1 c j1/ j1/ j1. j1. +f4 1426 259 f4, f4, j1/ f4, f4, f4/ f4/
++u1 900 553 +d1 1023 534 d1/ d1, d1, +d2 1092 387 d2/ d2, d2, +f1 1025 617 f1, f1, +k1 867 633 k1, d1, d2, f1, f1/ f1/ f1, k1, k1. k1. k1. +a1 1232 504 a1, a1, a1/ a1/ a1, +z1 594 517 ~z1 s z1, z1/ z1, z1/ z1, a1, a1, z1, d1, d2, f1, a1, d1, d2,
+
+
+Copy/Paste the following into the InputBox after loading the game and pressing alt-o (make sure auto-start is on in BTD6 and it's 1920x1080 not fullscreen):
+
+1:20 +q1 1245 606 +x1 1403 678 2:35 +u1 284 591 2:46 x1, 3:15 x1, 3:39 x1/ 4:13 x1/ 4:25 +x2 1451 518 4:31 x2, x2, 4:45 q1/ q1/ 4:50 +q2 557 199 q2/ q2/ 5:04 +q3 531 945 5:11 q3/ q3/ 5:22 x2/ 5:35 x2/ 6:40 +g1 322 502 +g2 298 629 6:49 +g3 361 561 +g4 401 504 +g5 376 627 7:05 +g6 370 441 7:30 g1. g1/ g2. g2/ g3. g3/ g4. g4/ g5. g5/ g6. g6/ 7:44 +k1 494 479 k1/ 8:01 +k2 472 613 8:05 k2/ 8:25 k1/ k2/ 8:30 k1. 8:45 k1. 9:00 k2, k2, 9:45 g1/ g1/ g2/ g2/ g3/ g3/ g4/ g4/ g5/ g5/ g6/ g6/ 10:15 g1/ 10:25 g2/ 10:30 g3/ 10:45 g4/ 11:00 g5/ 11:20 g6/ 12:00 k1. 12:20 +f1 434 408 f1, f1/ f1, f1/ f1, 12:40 f1, 13:15 +f2 548 565 f2, f2/ f2, f2/ f2, f2, 14:10 +f3 586 493 f3, f3, f3/ f3/ f3, f3, 18:30 g1/ 18:50 +j1 1334 388 j1/ j1/ ~j1 c j1/ j1/ j1. j1. 19:13 +f4 1425 225 f4, f4, 21:00 j1/ 21:10 f4, f4, f4/ f4/
+
+infernal hard/CHIMPS
+
++u1 844 770 +q1 879 414 ~q1 s ~q1 fs +x1 1207 316 x1, x1, x1/ x1/ q1/ q1/ +z1 70 505 ~z1 s z1, z1/ z1/ x1/ +k1 1593 724 +b1 1576 606 b1, b1, b1/ b1/ +f1 1616 513 f1, f1, f1, k1. k1. f1/ f1/ b1, k1, k1, b1, +y1 151 579 ~y1 s y1. y1/ y1/ y1/ +k2 96 667 k2, b1, z1, z1, z1, k2. k2. +d1 493 328 d1. d1. d1. d1. +d2 442 289 d2. d2. d2. d2. +x2 460 835 ~x2 s x2. x2. x2. x2. +x3 1202 225 x3. x3. x3. x3.
+
+adventure time - finn->jake, iceking->wizard, ninja
+
++f1 +j1 f1. f1. +i1 +w1 w1, w1/ w1m w1m w1m i1m i1, i1n i1. +n1 n1n n1n n1, n1, n1, n1n n1n f1n f1n f1m w1n w1n w1n f1m f1m f1m i1. i1n i1m i1m i1.
+
+adventure time - saice king - finn, jake, iceking, ninja
+
++f1 +j1 f1. f1. +i1 +n1 n1n n1n n1, n1, n1, n1n n1n n1n n1n i1n i1m i1m i1m f1n f1n f1m f1m f1m f1m f1n i1n i1m i1n i1n i1m i1m
+
+
+finn - n n m m m m n 
+jake - mace, axe, jake
+wizard - , m m m n n n (2nd key be / for ice and . for fire)
+ninja - n n , , , n n n n m
+ice king - m , n . . n m m . 
+pb - , . . . m
+fire princess -
+marceline - / n n . m
+
+ice king camo first and slowdown - n m m m n m n n m m 
+
+adventure time - finn, jake, ninja, iceking, marceline (up to round 45 hard)
+
++f1 +j1 ~f1 s ~j1 s f1. f1. +n1 ~n1 s n1n n1n +i1 n1, n1, n1, n1n n1n n1n n1n i1n i1m i1m i1m f1n f1n f1m f1m f1m f1m f1n n1m +m1 ~m1 l m1/ m1n m1n m1. m1m
